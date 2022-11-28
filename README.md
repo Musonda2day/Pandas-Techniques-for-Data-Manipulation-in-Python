@@ -1,4 +1,4 @@
-# Pandas-Techniques-for-Data-Preparation-
+# Pandas-Techniques-for-Data-Manipulation-in-Python
 
 [Blog post on Data Insight](https://www.datainsightonline.com/post/pandas-techniques-for-data-manipulation-in-python-10)
 
